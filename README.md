@@ -1,0 +1,1 @@
+# Modelling-Stock-Market-Volatility-A-GARCH-Approach-for-the-DAX-Index
